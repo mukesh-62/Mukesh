@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mukesh+S+👋;Full-Stack+Developer;Creative+Problem+Solver;Always+Learning+%26+Growing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mukesh+S+👋;Hey+I'm+GAY+👋;Full-Stack+Developer;Creative+Problem+Solver;Always+Learning+%26+Growing!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -160,16 +160,6 @@ const Mukesh S = {
 
 ---
 
-
-
-
-## 🎨 Contribution Heatmap
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated Contribution Graph" width="100%"/>
-</div>
-
----
 
 <div align="center">
   
