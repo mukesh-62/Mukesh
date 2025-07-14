@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Varunesh+👋;Full-Stack+Developer;Creative+Problem+Solver;Always+Learning+%26+Growing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mukesh S+👋;Full-Stack+Developer;Creative+Problem+Solver;Always+Learning+%26+Growing!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```typescript
-const varunesh = {
+const Mukesh S = {
     code: ["JavaScript", "Python", "Java", "C"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
