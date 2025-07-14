@@ -122,16 +122,16 @@ const Mukesh S = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varunesharasu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunesharasu&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukesh-62&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-62&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunesharasu&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-62&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunesharasu&theme=tokyo-night" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukesh-62&theme=tokyo-night" width="100%"/>
 </div>
 
 ---
@@ -139,7 +139,7 @@ const Mukesh S = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varunesharasu&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mukesh-62&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" width="100%"/>
 </div>
 
 ---
@@ -147,7 +147,7 @@ const Mukesh S = {
 ## 📈 Contribution Stats
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=varunesharasu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=mukesh-62&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </div>
 
 ---
@@ -175,7 +175,7 @@ const Mukesh S = {
   
 ### 🤝 Let's Build Something Amazing Together!
 
-<img src="https://komarev.com/ghpvc/?username=varunesharasu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=mukesh-62&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
 
